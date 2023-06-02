@@ -1,4 +1,4 @@
-# Default Font Changer
+# ![Default Font Changer](https://raw.githubusercontent.com/arduinoturkbatu/defaultfontchanger/main/fontchangerlogo.png) Default Font Changer
 **Boring Segoe UI default font? Try Inter on your browser!**
 
 With this Tampermonkey extension, you can use Inter instead of Segoe UI and system-ui
